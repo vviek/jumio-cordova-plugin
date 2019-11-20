@@ -24,8 +24,8 @@ dependencies {
     implementation "com.jumio.android:dv:3.3.1@aar"
 
     //for core:
-    implementation "androidx.appcompat:appcompat:1.0.2"
-    implementation "androidx.room:room-runtime:2.0.0"
+    //implementation "androidx.appcompat:appcompat:1.0.2"
+    //implementation "androidx.room:room-runtime:2.0.0"
 
     //for nv:
     implementation "com.google.android.material:material:1.0.0"
